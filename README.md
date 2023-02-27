@@ -21,6 +21,8 @@
   
 <br/>
 
+#
+
 ### ⚒️ Frameworks & Tools
 
 <img align="left" alt="Quarkus" width="40px" style="padding-right:10px;" src="img/quarkus.svg" />
@@ -45,7 +47,7 @@
 
 #
 
-### 📊 Stats,
+### 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=simonscholz&theme=highcontrast)](https://git.io/streak-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=simonscholz&show_icons=true&theme=highcontrast" alt="simonscholz" />
