@@ -27,6 +27,7 @@
 
 <img align="left" alt="Quarkus" width="40px" style="padding-right:10px;" src="img/quarkus.svg" />
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="OAS" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/O/openapi-logo-3E54DE56CD-seeklogo.com.png" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Ubuntu" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
@@ -37,20 +38,23 @@
 <img align="left" alt="Gradle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Maven" width="40px" style="padding-right:10px;" src="https://www.zeespire.com/assets/images/posts/0013/maven.png" />
 <img align="left" alt="Gatling" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://api.iconify.design/material-symbols/terminal-rounded.svg" />
-<img alt="Postman" width="40px" style="padding-right:10px;" src="img/postman.svg" />
+<img alt="Bash" width="40px" style="padding-right:10px;" src="https://api.iconify.design/material-symbols/terminal-rounded.svg" />
 
+<img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="img/postman.svg" />
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Redis" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />       
 <img align="left" alt="Postgres" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />       
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
+<img align="left" alt="K9s" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png"/>
 <img align="left" alt="GitOps" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg"/>
 <img align="left" alt="Terraform" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
 <img align="left" alt="Google Cloud" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/>
 <img align="left" alt="Prometheus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />      
-<img align="left" alt="Grafana" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />    
-<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Grafana" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />   
+<img align="left" alt="Keycloak" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" />
+<img alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+
 <img align="left" alt="Vue" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GraphQl" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
