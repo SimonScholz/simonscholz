@@ -37,7 +37,7 @@
 <img align="left" alt="VS Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="40px" style="padding-right:10px;" src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-gradient.svg" />
-<img align="left" alt="Maven" width="40px" style="padding-right:10px;" src="https://www.zeespire.com/assets/images/posts/0013/maven.png" />
+<img align="left" alt="Maven" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <img alt="Gatling" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" />
 
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://api.iconify.design/material-symbols/terminal-rounded.svg" />
