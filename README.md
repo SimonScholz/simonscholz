@@ -1,4 +1,4 @@
-<a href="https://simonscholz.github.io/"><img align="left" alt="My Website - https://simonscholz.github.io" src="https://img.shields.io/badge/Website-https://simonscholz.github.io/-informational?logo=github"/></a>
+<a href="https://simonscholz.dev/"><img align="left" alt="My Website - https://simonscholz.dev" src="https://img.shields.io/badge/Website-https://simonscholz.dev/-informational?logo=github"/></a>
 <a href="https://twitter.com/simonscholz"><img align="left" alt="Twitter - https://twitter.com/simonscholz" src="https://img.shields.io/badge/Twitter-simonscholz-informational?logo=twitter"/></a>
 <a href="https://www.linkedin.com/in/simon-scholz-080355113/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-simonscholz-informational?logo=linkedIn"/></a>
 <img align="left" src="https://komarev.com/ghpvc/?username=simonscholz" alt="Profile Views" />
